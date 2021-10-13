@@ -34,7 +34,7 @@ HeartDisease: output class [1: heart disease, 0: Normal]
 
 1. Extrapolatory analysis
 
-2. Outliers removal
+2. Data cleaning and Outliers removal
 
 3. Feature scaling , Train-test split etc to prepare the data for model fitting.
 
